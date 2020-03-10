@@ -1,0 +1,62 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 220320 entries, 0 to 220319
+Data columns (total 55 columns):
+ #   Column          Non-Null Count   Dtype  
+---  ------          --------------   -----  
+ 0   Unnamed: 0      220320 non-null  int64  
+ 1   timestamp       220320 non-null  object 
+ 2   sensor_00       210112 non-null  float64
+ 3   sensor_01       219951 non-null  float64
+ 4   sensor_02       220301 non-null  float64
+ 5   sensor_03       220301 non-null  float64
+ 6   sensor_04       220301 non-null  float64
+ 7   sensor_05       220301 non-null  float64
+ 8   sensor_06       215522 non-null  float64
+ 9   sensor_07       214869 non-null  float64
+ 10  sensor_08       215213 non-null  float64
+ 11  sensor_09       215725 non-null  float64
+ 12  sensor_10       220301 non-null  float64
+ 13  sensor_11       220301 non-null  float64
+ 14  sensor_12       220301 non-null  float64
+ 15  sensor_13       220301 non-null  float64
+ 16  sensor_14       220299 non-null  float64
+ 17  sensor_15       0 non-null       float64
+ 18  sensor_16       220289 non-null  float64
+ 19  sensor_17       220274 non-null  float64
+ 20  sensor_18       220274 non-null  float64
+ 21  sensor_19       220304 non-null  float64
+ 22  sensor_20       220304 non-null  float64
+ 23  sensor_21       220304 non-null  float64
+ 24  sensor_22       220279 non-null  float64
+ 25  sensor_23       220304 non-null  float64
+ 26  sensor_24       220304 non-null  float64
+ 27  sensor_25       220284 non-null  float64
+ 28  sensor_26       220300 non-null  float64
+ 29  sensor_27       220304 non-null  float64
+ 30  sensor_28       220304 non-null  float64
+ 31  sensor_29       220248 non-null  float64
+ 32  sensor_30       220059 non-null  float64
+ 33  sensor_31       220304 non-null  float64
+ 34  sensor_32       220252 non-null  float64
+ 35  sensor_33       220304 non-null  float64
+ 36  sensor_34       220304 non-null  float64
+ 37  sensor_35       220304 non-null  float64
+ 38  sensor_36       220304 non-null  float64
+ 39  sensor_37       220304 non-null  float64
+ 40  sensor_38       220293 non-null  float64
+ 41  sensor_39       220293 non-null  float64
+ 42  sensor_40       220293 non-null  float64
+ 43  sensor_41       220293 non-null  float64
+ 44  sensor_42       220293 non-null  float64
+ 45  sensor_43       220293 non-null  float64
+ 46  sensor_44       220293 non-null  float64
+ 47  sensor_45       220293 non-null  float64
+ 48  sensor_46       220293 non-null  float64
+ 49  sensor_47       220293 non-null  float64
+ 50  sensor_48       220293 non-null  float64
+ 51  sensor_49       220293 non-null  float64
+ 52  sensor_50       143303 non-null  float64
+ 53  sensor_51       204937 non-null  float64
+ 54  machine_status  220320 non-null  object 
+dtypes: float64(52), int64(1), object(2)
+memory usage: 92.5+ MB
